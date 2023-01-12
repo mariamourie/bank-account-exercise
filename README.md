@@ -35,4 +35,5 @@ $ git clone https://github.com/seu-username/seu-repositorio
 ## Autor 👩🏽‍💻
 
 Código: Maria Eduarda L. da Cruz
+<br>
 Fonte do exercício: curso "Java COMPLETO Programação Orientada a Objetos +Projetos" do Nelio Alves (Udemy).
